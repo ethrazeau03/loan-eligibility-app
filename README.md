@@ -1,7 +1,7 @@
 # Loan Eligibility Prediction
 
 ## Purpose
-This project modularizes the Week 10 notebook into production-style Python files and deploys a Streamlit app for loan approval prediction.
+This project modularizes a notebook into production-style Python files and deploys a Streamlit app for loan approval prediction.
 
 ## Expected dataset
 Place your dataset in:
